@@ -1,0 +1,16 @@
+*{
+    font-family: "Inter",
+        "Roboto",
+        sans-serif;
+}
+input{
+    height: 35px;
+    width: 300px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid rgba(210, 214, 227, 0.2);
+}
+label{
+    
+    align-self: flex-start;
+}
